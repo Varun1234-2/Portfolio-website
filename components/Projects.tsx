@@ -7,27 +7,27 @@ import { motion } from "framer-motion";
 const projects = [
   {
     id: 1,
-    title: "Circuit Mesh Simulator",
+    title: "Project 1",
     category: "Engineering",
-    description: "An interactive tool built to calculate complex currents using Kirchhoff's laws and Ohm's law.",
+    description: "Project",
   },
   {
     id: 2,
-    title: "Logic Loop Analyzer",
+    title: "Project 2",
     category: "Python Development",
-    description: "A Python script designed to debug and optimize complex conditional logic and control structures.",
+    description: "Project",
   },
   {
     id: 3,
-    title: "Rate of Change Calculator",
+    title: "Project 3",
     category: "Mathematics",
-    description: "An application that computes differentiation rules for complex calculus functions.",
+    description: "Project",
   },
   {
     id: 4,
-    title: "Historical Impact Analysis",
+    title: "Project 4",
     category: "Research / Presentation",
-    description: "A comprehensive deep dive into how earlier philosophies shaped modern civil rights movements.",
+    description: "Project",
   }
 ];
 
